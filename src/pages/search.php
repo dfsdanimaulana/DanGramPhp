@@ -38,11 +38,11 @@
       </div>
       <!-- menu bottom -->
       <div class="menu-bottom">
-        <a href="../../index.html"><i class="bi bi-house-door"></i></a>
-        <a href="src/pages/search.html"><i class="bi bi-search"></i></a>
+        <a href="../../index.php"><i class="bi bi-house-door"></i></a>
+        <a href="src/pages/search.php"><i class="bi bi-search"></i></a>
         <a href="#"><i class="bi bi-plus-square"></i></a>
         <a href="#"><i class="bi bi-heart"></i></a>
-        <a href="profile.html"><i class="bi bi-person-circle"></i></a>
+        <a href="profile.php"><i class="bi bi-person-circle"></i></a>
       </div>
     
   </body>

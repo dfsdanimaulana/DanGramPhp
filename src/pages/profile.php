@@ -49,7 +49,7 @@
                             posts
                         </p>
                     </a>
-                    <a class="stat" href="follow.html"
+                    <a class="stat" href="follow.php"
                         ><p>
                             2m
                         </p>
@@ -57,7 +57,7 @@
                             followers
                         </p>
                     </a>
-                    <a class="stat" href="follow.html"
+                    <a class="stat" href="follow.php"
                         ><p>
                             300
                         </p>
@@ -104,8 +104,8 @@
         <!-- post-container end-->
         <!-- menu bottom -->
         <div class="menu-bottom">
-            <a href="../../index.html"><i class="bi bi-house-door"></i></a>
-            <a href="search.html"><i class="bi bi-search"></i></a>
+            <a href="../../index.php"><i class="bi bi-house-door"></i></a>
+            <a href="search.php"><i class="bi bi-search"></i></a>
             <a href="#"><i class="bi bi-plus-square"></i></a>
             <a href="#"><i class="bi bi-heart"></i></a>
             <a href="#"><i class="bi bi-person-circle"></i></a>

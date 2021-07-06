@@ -19,13 +19,13 @@
     <div class="main">
         <nav>
             <div class="nav-header">
-                <a href="../../index.html">
+                <a href="../../index.php">
                     <i class="bi bi-arrow-left-short"></i>
                 </a>
                 <a href="#">
                     <img src="../../public/img/Dani.jpg">
                 </a>
-                <a href="profile.html">
+                <a href="profile.php">
                     <h6>dnm17_</h6>
                 </a>
             </div>

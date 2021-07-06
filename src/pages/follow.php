@@ -19,10 +19,10 @@
     <div class="main">
         <nav>
             <div class="nav-header">
-                <a href="../../index.html">
+                <a href="../../index.php">
                     <i class="bi bi-arrow-left-short"></i>
                 </a>
-                <a href="profile.html">
+                <a href="profile.php">
                     <h6>dnm17_</h6>
                 </a>
             </div>
@@ -54,7 +54,7 @@
                 <a href="#">
                     <img src="../../public/img/Dani.jpg" alt="" />
                 </a>
-                <a href="chat_room.html">
+                <a href="chat_room.php">
                     <p>dnm17_</p>
                     <p>Dani Maulana</p>
                 </a>
@@ -70,7 +70,7 @@
                 <a href="#">
                     <img src="../../public/img/Dani.jpg" alt="" />
                 </a>
-                <a href="chat_room.html">
+                <a href="chat_room.php">
                     <p>dnm17_</p>
                     <p>Dani Maulana</p>
                 </a>

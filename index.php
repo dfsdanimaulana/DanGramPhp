@@ -28,7 +28,7 @@
       <!-- header start -->
       <nav>
         <h3><a href="#">DanGram</a></h3>
-        <a class="nav-item-container" href="src/pages/chat.html">
+        <a class="nav-item-container" href="src/pages/chat.php">
           <i class="bi bi-chat-dots"></i>
         </a>
       </nav>
@@ -106,10 +106,10 @@
       <!-- menu bottom -->
       <div class="menu-bottom">
         <a href="#"><i class="bi bi-house-door"></i></a>
-        <a href="src/pages/search.html"><i class="bi bi-search"></i></a>
+        <a href="src/pages/search.php"><i class="bi bi-search"></i></a>
         <a href="#"><i class="bi bi-plus-square"></i></a>
         <a href="#"><i class="bi bi-heart"></i></a>
-        <a href="src/pages/profile.html"><i class="bi bi-person-circle"></i></a>
+        <a href="src/pages/profile.php"><i class="bi bi-person-circle"></i></a>
       </div>
     </div>
   </body>
