@@ -1,3 +1,5 @@
+ <title>DanGram | Profile</title>
+
  <!-- my css -->
  <link rel="stylesheet" href="<?= BASEURL; ?>css/profile.css" />
 
@@ -33,7 +35,7 @@
                              posts
                          </p>
                      </a>
-                     <a class="stat" href="follow.php">
+                     <a class="stat" href="<?= BASEURL; ?>profile/followers">
                          <p>
                              2m
                          </p>
@@ -41,7 +43,7 @@
                              followers
                          </p>
                      </a>
-                     <a class="stat" href="follow.php">
+                     <a class="stat" href="<?= BASEURL; ?>profile/following">
                          <p>
                              300
                          </p>
@@ -86,15 +88,3 @@
              <img src="<?= BASEURL; ?>img/mina2.jpg" />
          </div>
          <!-- post-container end-->
-         <!-- menu bottom -->
-         <div class="menu-bottom">
-             <a href="index.php"><i class="bi bi-house-door"></i></a>
-             <a href="search.php"><i class="bi bi-search"></i></a>
-             <a href="#"><i class="bi bi-plus-square"></i></a>
-             <a href="#"><i class="bi bi-heart"></i></a>
-             <a href="#"><i class="bi bi-person-circle"></i></a>
-         </div>
-     </div>
- </body>
-
- </html>

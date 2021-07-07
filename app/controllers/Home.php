@@ -6,5 +6,6 @@ class Home extends Controller
     {
         $this->view('template/head');
         $this->view('home/index');
+        $this->view('template/navbot');
     }
 }

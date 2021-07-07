@@ -1,31 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!-- icons bootstrap -->
-    <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
-    />
+<link rel="stylesheet" href="<?= BASEURL; ?>css/chat.css" />
 
-    <link rel="stylesheet" href="../css/reset.css" />
-    <link rel="stylesheet" href="../css/chat.css" />
-
-    <title>DanGram | Chat Room</title>
+<title>DanGram | Chat Room</title>
 </head>
+
 <body>
     <div class="main">
         <nav>
             <div class="nav-header">
-                <a href="../../index.php">
+                <a href="<?= BASEURL; ?>chat">
                     <i class="bi bi-arrow-left-short"></i>
                 </a>
                 <a href="#">
-                    <img src="../../public/img/Dani.jpg">
+                    <img src="<?= BASEURL; ?>img/Dani.jpg">
                 </a>
-                <a href="profile.php">
+                <a href="<?= BASEURL; ?>profile">
                     <h6>dnm17_</h6>
                 </a>
             </div>
@@ -58,4 +46,5 @@
         </div>
     </div>
 </body>
+
 </html>

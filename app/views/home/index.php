@@ -1,4 +1,4 @@
-<title>DanGram | Dashbord</title>
+<title>DanGram | Home</title>
 
 <!-- my css -->
 <link rel="stylesheet" href="<?= BASEURL; ?>css/home.css" />
@@ -12,7 +12,7 @@
         <!-- header start -->
         <nav>
             <h3><a href="#">DanGram</a></h3>
-            <a class="nav-item-container" href="src/pages/chat.php">
+            <a class="nav-item-container" href="<?= BASEURL; ?>chat">
                 <i class="bi bi-chat-dots"></i>
             </a>
         </nav>
@@ -86,16 +86,3 @@
             </div>
         </div>
         <!-- card end -->
-
-        <!-- menu bottom -->
-        <div class="menu-bottom">
-            <a href="<?= BASEURL; ?>home"><i class="bi bi-house-door"></i></a>
-            <a href="src/pages/search.php"><i class="bi bi-search"></i></a>
-            <a href="#"><i class="bi bi-plus-square"></i></a>
-            <a href="#"><i class="bi bi-heart"></i></a>
-            <a href="<?= BASEURL; ?>profile"><i class="bi bi-person-circle"></i></a>
-        </div>
-    </div>
-</body>
-
-</html>
